@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming like web developer and creating animaton by using html css and js
 - 🌱 I currently completed my graduation
 - 📫 How to reach me @mdmusaif.mm@gmail.com
- my webiste http://musaifofficial.000webhostapp.com
+ my webiste http://musaif.netlify.app
  
 
 <!---
